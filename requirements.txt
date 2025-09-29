@@ -1,0 +1,10 @@
+einops
+timm
+transformers==4.49.0
+torch
+torchvision
+gradio
+Pillow
+matplotlib
+numpy
+requests
